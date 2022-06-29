@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(https://github.com/gonz-o/gonz-o/raw/main/banner.gif)
+<img src="https://github.com/gonz-o/gonz-o/raw/main/banner.gif"></img>
 
 <!--
 **gonz-o/gonz-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
